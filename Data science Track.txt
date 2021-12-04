@@ -1,0 +1,12 @@
+Math and Statistics===Khan Academy
+
+Python and SQL===Data Camp
+Python for Data Analysis
+SQL 1 and SQL Advanced
+
+Machine Learning===Andrew Ng youtube
+
+Python for Data Science===Data Camp
+
+
+Kaggle for applying
